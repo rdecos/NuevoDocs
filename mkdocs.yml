@@ -1,0 +1,8 @@
+site_name: "PruebaDocs"
+site_description: "PruebaDocs"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
